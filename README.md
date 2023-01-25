@@ -9,5 +9,5 @@ I have known the world of programming since 2016, and while in college I studied
 ### Let's connect!
 <p>
     <a href="https://linkedin.endijulian.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://www.instagram.com/endi_julian" target="blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-full-gradient-colour-background-900x900.png" /></a>
+    <a href="https://www.instagram.com/endi_julian" target="blank"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/endijulian?style=social"></a>
 </p>
