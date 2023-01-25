@@ -6,12 +6,12 @@ I have known the world of programming since 2016, and while in college I studied
 
 ### Stats:
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+ <strong>What i am learning/working on these days</strong>
     - 🔭 I’m currently working on Golang </br>
     - 🌱 I’m currently learning Flutter</br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:endijulian080798@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
