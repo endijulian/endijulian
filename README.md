@@ -18,11 +18,6 @@ I have known the world of programming since 2016, and while in college I studied
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endijulian&layout=compact" height=180 />
 </p>
 
-### Let's connect!
-<p>
-    <a href="https://www.linkedin.com/in/endi-julian" target="blank"><img src="https://img.shields.io/badge/Endi_Julian-30302f?style=flat&logo=linkedin" /></a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/endi-julian" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
